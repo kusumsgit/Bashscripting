@@ -1,9 +1,10 @@
 Move cursor
 
-|Ctrl + a|	Go to the beginning of the line (Home)|
-|Ctrl + e|	Go to the End of the line (End)|
-|Alt + b|	Back (left) one word|
-|Alt + f|	Forward (right) one word|
-|Ctrl + f|	Forward one character|
-|Ctrl + b|	Backward one character|
-|Ctrl + xx|	Toggle between the start of line and current cursor position|
+|        |                                      |
+|Ctrl + a|Go to the beginning of the line (Home)|
+|Ctrl + e|Go to the End of the line (End)|
+|Alt + b|Back (left) one word|
+|Alt + f|Forward (right) one word|
+|Ctrl + f|Forward one character|
+|Ctrl + b|Backward one character|
+|Ctrl + xx|Toggle between the start of line and current cursor position|
